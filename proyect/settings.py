@@ -59,7 +59,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'proyect.wsgi.application'
+WSGI_APPLICATION = 'hoja_vida.wsgi.application'
 
 # BASE DE DATOS
 DATABASES = {
