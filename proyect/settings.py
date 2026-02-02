@@ -41,7 +41,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'proyect.urls'
+ROOT_URLCONF = 'hoja_vida.urls'
 
 TEMPLATES = [
     {
